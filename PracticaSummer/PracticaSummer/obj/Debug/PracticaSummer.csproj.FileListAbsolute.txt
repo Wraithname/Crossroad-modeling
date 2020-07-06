@@ -1,0 +1,32 @@
+C:\Users\user\source\repos\PracticaSummer\PracticaSummer\obj\Debug\PracticaSummer.csprojAssemblyReference.cache
+C:\Users\user\source\repos\PracticaSummer\PracticaSummer\obj\Debug\PracticaSummer.Form1.resources
+C:\Users\user\source\repos\PracticaSummer\PracticaSummer\obj\Debug\PracticaSummer.Properties.Resources.resources
+C:\Users\user\source\repos\PracticaSummer\PracticaSummer\obj\Debug\PracticaSummer.csproj.GenerateResource.cache
+C:\Users\user\source\repos\PracticaSummer\PracticaSummer\obj\Debug\PracticaSummer.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\PracticaSummer\PracticaSummer\bin\Debug\PracticaSummer.exe.config
+C:\Users\user\source\repos\PracticaSummer\PracticaSummer\bin\Debug\PracticaSummer.exe
+C:\Users\user\source\repos\PracticaSummer\PracticaSummer\bin\Debug\PracticaSummer.pdb
+C:\Users\user\source\repos\PracticaSummer\PracticaSummer\obj\Debug\PracticaSummer.exe
+C:\Users\user\source\repos\PracticaSummer\PracticaSummer\obj\Debug\PracticaSummer.pdb
+C:\Users\user\Desktop\летняя практика\PracticaSummer\PracticaSummer\bin\Debug\PracticaSummer.exe.config
+C:\Users\user\Desktop\летняя практика\PracticaSummer\PracticaSummer\bin\Debug\PracticaSummer.exe
+C:\Users\user\Desktop\летняя практика\PracticaSummer\PracticaSummer\bin\Debug\PracticaSummer.pdb
+C:\Users\user\Desktop\летняя практика\PracticaSummer\PracticaSummer\obj\Debug\PracticaSummer.csprojAssemblyReference.cache
+C:\Users\user\Desktop\летняя практика\PracticaSummer\PracticaSummer\obj\Debug\PracticaSummer.Form1.resources
+C:\Users\user\Desktop\летняя практика\PracticaSummer\PracticaSummer\obj\Debug\PracticaSummer.Properties.Resources.resources
+C:\Users\user\Desktop\летняя практика\PracticaSummer\PracticaSummer\obj\Debug\PracticaSummer.csproj.GenerateResource.cache
+C:\Users\user\Desktop\летняя практика\PracticaSummer\PracticaSummer\obj\Debug\PracticaSummer.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\летняя практика\PracticaSummer\PracticaSummer\obj\Debug\PracticaSummer.exe
+C:\Users\user\Desktop\летняя практика\PracticaSummer\PracticaSummer\obj\Debug\PracticaSummer.pdb
+C:\Users\user\Desktop\летняя практика\PracticaSummer\PracticaSummer\obj\Debug\PracticaSummer.BufferedPanel.resources
+C:\Users\user\Desktop\Курсовой КМ\PracticaSummer\PracticaSummer\bin\Debug\PracticaSummer.exe.config
+C:\Users\user\Desktop\Курсовой КМ\PracticaSummer\PracticaSummer\bin\Debug\PracticaSummer.exe
+C:\Users\user\Desktop\Курсовой КМ\PracticaSummer\PracticaSummer\bin\Debug\PracticaSummer.pdb
+C:\Users\user\Desktop\Курсовой КМ\PracticaSummer\PracticaSummer\obj\Debug\PracticaSummer.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Курсовой КМ\PracticaSummer\PracticaSummer\obj\Debug\PracticaSummer.BufferedPanel.resources
+C:\Users\user\Desktop\Курсовой КМ\PracticaSummer\PracticaSummer\obj\Debug\PracticaSummer.Form1.resources
+C:\Users\user\Desktop\Курсовой КМ\PracticaSummer\PracticaSummer\obj\Debug\PracticaSummer.Properties.Resources.resources
+C:\Users\user\Desktop\Курсовой КМ\PracticaSummer\PracticaSummer\obj\Debug\PracticaSummer.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Курсовой КМ\PracticaSummer\PracticaSummer\obj\Debug\PracticaSummer.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Курсовой КМ\PracticaSummer\PracticaSummer\obj\Debug\PracticaSummer.exe
+C:\Users\user\Desktop\Курсовой КМ\PracticaSummer\PracticaSummer\obj\Debug\PracticaSummer.pdb
